@@ -56,4 +56,5 @@ And here is a list of awesome uBlacklist subscriptions.  Add uBlacklist to your 
 - [Generic content farm](https://github.com/wdmpa/content-farm-list) - Blocks AI content farm. 
 
 ## Gaming
+- [Edit](https://github.com/agsimmons/ublacklist-fandom) - [Fandom Wikis](https://github.com/agsimmons/ublacklist-fandom/blob/main/ublacklist-fandom.txt) - Blocks Fandom wikis with widely accepted alternatives
 - [StopModReposts](https://api.stopmodreposts.org/minecraft/ublacklist.txt) - Blocks Minecraft mod repost websites
